@@ -1,0 +1,38 @@
+{
+  "node": {
+    "00e02fa097fea7d42c10bccac06d5c8cf11e8ac531": {
+      "workers": {
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "signOut",
+      "filename": "app/actions/auth.ts"
+    },
+    "40448d1103422b9a73b3d52e8c78a13439710706a4": {
+      "workers": {
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "createLead",
+      "filename": "app/actions/contacts.ts"
+    },
+    "408a7e6349252531b86274863482396cfe8acba2cd": {
+      "workers": {
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "searchLeadOptions",
+      "filename": "app/actions/contacts.ts"
+    }
+  },
+  "edge": {}
+}

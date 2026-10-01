@@ -1,0 +1,27 @@
+{
+  "node": {
+    "00e02fa097fea7d42c10bccac06d5c8cf11e8ac531": {
+      "workers": {
+        "app/(crm)/companies/[id]/page": {
+          "moduleId": 34065,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "signOut",
+      "filename": "app/actions/auth.ts"
+    },
+    "4002d0f0206a7726e55bba1ba4cd6d4eacc9630f9b": {
+      "workers": {
+        "app/(crm)/companies/[id]/page": {
+          "moduleId": 34065,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "updateCompany",
+      "filename": "app/actions/companies.ts"
+    }
+  },
+  "edge": {}
+}

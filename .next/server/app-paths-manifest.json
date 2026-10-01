@@ -1,0 +1,17 @@
+{
+  "/(auth)/definir-senha/page": "app/(auth)/definir-senha/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(crm)/companies/[id]/page": "app/(crm)/companies/[id]/page.js",
+  "/(crm)/contacts/[id]/page": "app/(crm)/contacts/[id]/page.js",
+  "/(crm)/contacts/page": "app/(crm)/contacts/page.js",
+  "/(crm)/deals/[id]/page": "app/(crm)/deals/[id]/page.js",
+  "/(crm)/hoje/page": "app/(crm)/hoje/page.js",
+  "/(crm)/page": "app/(crm)/page.js",
+  "/(crm)/pipeline/page": "app/(crm)/pipeline/page.js",
+  "/(crm)/settings/members/page": "app/(crm)/settings/members/page.js",
+  "/(crm)/settings/stages/page": "app/(crm)/settings/stages/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/confirm/route": "app/auth/confirm/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

@@ -1,0 +1,16 @@
+{
+  "node": {
+    "00e02fa097fea7d42c10bccac06d5c8cf11e8ac531": {
+      "workers": {
+        "app/(crm)/page": {
+          "moduleId": 73320,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "signOut",
+      "filename": "app/actions/auth.ts"
+    }
+  },
+  "edge": {}
+}

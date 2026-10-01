@@ -1,0 +1,3 @@
+{
+  "/(auth)/definir-senha/page": "app/(auth)/definir-senha/page.js"
+}

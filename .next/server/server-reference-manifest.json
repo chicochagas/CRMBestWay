@@ -1,0 +1,306 @@
+{
+  "node": {
+    "00e02fa097fea7d42c10bccac06d5c8cf11e8ac531": {
+      "workers": {
+        "app/(crm)/companies/[id]/page": {
+          "moduleId": 34065,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/hoje/page": {
+          "moduleId": 3585,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/page": {
+          "moduleId": 73320,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/settings/members/page": {
+          "moduleId": 94552,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/settings/stages/page": {
+          "moduleId": 99772,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/auth.ts",
+      "exportedName": "signOut"
+    },
+    "4002d0f0206a7726e55bba1ba4cd6d4eacc9630f9b": {
+      "workers": {
+        "app/(crm)/companies/[id]/page": {
+          "moduleId": 34065,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/companies.ts",
+      "exportedName": "updateCompany"
+    },
+    "40448d1103422b9a73b3d52e8c78a13439710706a4": {
+      "workers": {
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/contacts.ts",
+      "exportedName": "createLead"
+    },
+    "408a7e6349252531b86274863482396cfe8acba2cd": {
+      "workers": {
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/contacts/page": {
+          "moduleId": 24420,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/contacts.ts",
+      "exportedName": "searchLeadOptions"
+    },
+    "403b463335386d715c7250401bd3d6357b3be41783": {
+      "workers": {
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/contacts.ts",
+      "exportedName": "deleteContact"
+    },
+    "40d5be29edad4370063ac69823f3f34a2a86aa8df2": {
+      "workers": {
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/contacts.ts",
+      "exportedName": "updateContact"
+    },
+    "400da0aa118e635200134962aff535150f167bf2ce": {
+      "workers": {
+        "app/(crm)/contacts/[id]/page": {
+          "moduleId": 16654,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/activities.ts",
+      "exportedName": "addNote"
+    },
+    "40aef1e0caf9e50b7641caa4b671e7599ed1d762cb": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "closeDeal"
+    },
+    "40f0fc537f5fa0f6ce882897011ac9ef46f535e944": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "deleteDeal"
+    },
+    "400a81465fe7af3ea9d23142a4a4d5c3322a12b70f": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "reopenDeal"
+    },
+    "4071810754af5902cd5613b23271449fe160a1e350": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "updateDeal"
+    },
+    "4076f5c2a26172b7cdd1ae43e28d1a5c7f8cdee463": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        },
+        "app/(crm)/hoje/page": {
+          "moduleId": 3585,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "setNextAction"
+    },
+    "4002b550ea2d7464b3cf13f05d7eec22405e21606a": {
+      "workers": {
+        "app/(crm)/pipeline/page": {
+          "moduleId": 26452,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/deals.ts",
+      "exportedName": "moveDeal"
+    },
+    "40092e1d553b35925d04abfa71e965a7857cd9c50e": {
+      "workers": {
+        "app/(crm)/settings/members/page": {
+          "moduleId": 94552,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/members.ts",
+      "exportedName": "inviteMember"
+    },
+    "40645169c5bcf855a4730847fddc750fbe93f43721": {
+      "workers": {
+        "app/(crm)/settings/members/page": {
+          "moduleId": 94552,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/members.ts",
+      "exportedName": "setMemberActive"
+    },
+    "40169d0c43a42b5077c6d29c5fa9cf69cae5fc438d": {
+      "workers": {
+        "app/(crm)/settings/members/page": {
+          "moduleId": 94552,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/members.ts",
+      "exportedName": "updateMemberRole"
+    },
+    "40f2e5261a619068fbfa99089c4f89ca9f32b66b2f": {
+      "workers": {
+        "app/(crm)/settings/stages/page": {
+          "moduleId": 99772,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/stages.ts",
+      "exportedName": "createStage"
+    },
+    "405761bbe12142bf1f5a5876e25627d556d3bb1347": {
+      "workers": {
+        "app/(crm)/settings/stages/page": {
+          "moduleId": 99772,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/stages.ts",
+      "exportedName": "deleteStage"
+    },
+    "40e4abd271430b8fb1d77968d9a2b98817b03097ad": {
+      "workers": {
+        "app/(crm)/settings/stages/page": {
+          "moduleId": 99772,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/stages.ts",
+      "exportedName": "reorderStages"
+    },
+    "409639933c45b8381353687f00a9d6539a705b36d7": {
+      "workers": {
+        "app/(crm)/settings/stages/page": {
+          "moduleId": 99772,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "app/actions/stages.ts",
+      "exportedName": "updateStage"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "9FwoyMJL0EAk7UqmevvhxljU1FjE50gazR4bFU2lvgc="
+}

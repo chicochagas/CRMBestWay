@@ -1,0 +1,82 @@
+{
+  "node": {
+    "00e02fa097fea7d42c10bccac06d5c8cf11e8ac531": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "signOut",
+      "filename": "app/actions/auth.ts"
+    },
+    "400da0aa118e635200134962aff535150f167bf2ce": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "addNote",
+      "filename": "app/actions/activities.ts"
+    },
+    "40aef1e0caf9e50b7641caa4b671e7599ed1d762cb": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "closeDeal",
+      "filename": "app/actions/deals.ts"
+    },
+    "40f0fc537f5fa0f6ce882897011ac9ef46f535e944": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteDeal",
+      "filename": "app/actions/deals.ts"
+    },
+    "400a81465fe7af3ea9d23142a4a4d5c3322a12b70f": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "reopenDeal",
+      "filename": "app/actions/deals.ts"
+    },
+    "4071810754af5902cd5613b23271449fe160a1e350": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "updateDeal",
+      "filename": "app/actions/deals.ts"
+    },
+    "4076f5c2a26172b7cdd1ae43e28d1a5c7f8cdee463": {
+      "workers": {
+        "app/(crm)/deals/[id]/page": {
+          "moduleId": 78380,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "setNextAction",
+      "filename": "app/actions/deals.ts"
+    }
+  },
+  "edge": {}
+}

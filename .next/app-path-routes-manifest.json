@@ -1,0 +1,17 @@
+{
+  "/(auth)/definir-senha/page": "/definir-senha",
+  "/(auth)/login/page": "/login",
+  "/(crm)/companies/[id]/page": "/companies/[id]",
+  "/(crm)/contacts/[id]/page": "/contacts/[id]",
+  "/(crm)/contacts/page": "/contacts",
+  "/(crm)/deals/[id]/page": "/deals/[id]",
+  "/(crm)/hoje/page": "/hoje",
+  "/(crm)/page": "/",
+  "/(crm)/pipeline/page": "/pipeline",
+  "/(crm)/settings/members/page": "/settings/members",
+  "/(crm)/settings/stages/page": "/settings/stages",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/auth/confirm/route": "/auth/confirm",
+  "/favicon.ico/route": "/favicon.ico"
+}
